@@ -1,3 +1,5 @@
+// Cypress E2E Tests
+
 describe('Login Form E2E Testleri', () => {
   beforeEach(() => {
     // Projenizi başlatırken kullandığınız yerel port (örn: 5173)
